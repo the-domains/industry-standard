@@ -1,0 +1,14 @@
+layout_spectrum: 0.9038786
+typography_spectrum: 0.6408094
+color:
+  saturation: 0.7453626
+  lightness: 0.2445194
+  brandStrength: 0.8423873
+  brandColors:
+    - '#F2EFE2'
+    - '#101317'
+    - '#E9CEAD'
+    - '#C59265'
+    - '#B53814'
+  rhythmicContrast: 0.4831366
+name: Industry Standard
