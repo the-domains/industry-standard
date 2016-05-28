@@ -1,14 +1,26 @@
-layout_spectrum: 0.9038786
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.6408094
 color:
   saturation: 0.7453626
-  lightness: 0.2445194
   brandStrength: 0.8423873
+  lightness: 0.2445194
   brandColors:
-    - '#F2EFE2'
-    - '#101317'
-    - '#E9CEAD'
-    - '#C59265'
-    - '#B53814'
+    - '#0D0C08'
+    - '#573824'
+    - '#FFFFFF'
+    - '#92C0F3'
+    - '#5C737B'
   rhythmicContrast: 0.4831366
+layout_spectrum: 0.9038786
 name: Industry Standard
